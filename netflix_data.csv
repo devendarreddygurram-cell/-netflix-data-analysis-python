@@ -1,0 +1,101 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,genre
+s1,Movie,The Irishman,Martin Scorsese,United States,November 27 2019,2019,R,209 min,Crime
+s2,TV Show,Stranger Things,,United States,July 15 2016,2016,TV-14,4 Seasons,Sci-Fi
+s3,Movie,Bird Box,Susanne Bier,United States,December 21 2018,2018,R,124 min,Thriller
+s4,TV Show,The Crown,,United Kingdom,November 4 2016,2016,TV-MA,6 Seasons,Drama
+s5,Movie,Extraction,Sam Hargrave,United States,April 24 2020,2020,R,116 min,Action
+s6,TV Show,Ozark,,United States,July 21 2017,2017,TV-MA,4 Seasons,Crime
+s7,Movie,Roma,Alfonso Cuaron,Mexico,December 14 2018,2018,R,135 min,Drama
+s8,TV Show,Dark,,Germany,December 1 2017,2017,TV-MA,3 Seasons,Sci-Fi
+s9,Movie,The Two Popes,Fernando Meirelles,United Kingdom,November 27 2019,2019,PG-13,125 min,Drama
+s10,TV Show,Money Heist,,Spain,January 1 2018,2018,TV-MA,5 Seasons,Crime
+s11,Movie,Mank,David Fincher,United States,December 4 2020,2020,R,131 min,Drama
+s12,TV Show,Bridgerton,,United States,December 25 2020,2020,TV-MA,3 Seasons,Romance
+s13,Movie,The Old Guard,Gina Prince-Bythewood,United States,July 10 2020,2020,R,125 min,Action
+s14,TV Show,Squid Game,,South Korea,September 17 2021,2021,TV-MA,2 Seasons,Thriller
+s15,Movie,Dolemite Is My Name,Craig Brewer,United States,October 25 2019,2019,R,118 min,Comedy
+s16,TV Show,Emily in Paris,,United States,October 2 2020,2020,TV-MA,4 Seasons,Romance
+s17,Movie,The Trial of the Chicago 7,Aaron Sorkin,United States,October 16 2020,2020,R,130 min,Drama
+s18,TV Show,Lupin,,France,January 8 2021,2021,TV-MA,3 Seasons,Crime
+s19,Movie,Malcolm and Marie,Sam Levinson,United States,February 5 2021,2021,R,106 min,Drama
+s20,TV Show,The Witcher,,United States,December 20 2019,2019,TV-MA,3 Seasons,Fantasy
+s21,Movie,Army of the Dead,Zack Snyder,United States,May 21 2021,2021,R,148 min,Action
+s22,TV Show,Sex Education,,United Kingdom,January 11 2019,2019,TV-MA,4 Seasons,Comedy
+s23,Movie,Bruised,Halle Berry,United States,November 24 2021,2021,R,130 min,Action
+s24,TV Show,Never Have I Ever,,United States,April 27 2020,2020,TV-14,4 Seasons,Comedy
+s25,Movie,The Power of the Dog,Jane Campion,New Zealand,November 19 2021,2021,R,126 min,Drama
+s26,TV Show,Cobra Kai,,United States,August 28 2020,2020,TV-14,6 Seasons,Action
+s27,Movie,tick tick BOOM,Lin-Manuel Miranda,United States,November 19 2021,2021,PG-13,115 min,Musical
+s28,TV Show,Mindhunter,,United States,October 13 2017,2017,TV-MA,2 Seasons,Crime
+s29,Movie,Red Notice,Rawson Marshall Thurber,United States,November 12 2021,2021,PG-13,118 min,Action
+s30,TV Show,Peaky Blinders,,United Kingdom,September 30 2016,2016,TV-MA,6 Seasons,Crime
+s31,Movie,Don't Look Up,Adam McKay,United States,December 24 2021,2021,R,138 min,Comedy
+s32,TV Show,The Umbrella Academy,,United States,February 15 2019,2019,TV-14,3 Seasons,Sci-Fi
+s33,Movie,The Lost Daughter,Maggie Gyllenhaal,United Kingdom,December 31 2021,2021,R,121 min,Drama
+s34,TV Show,Narcos,,United States,August 28 2015,2015,TV-MA,3 Seasons,Crime
+s35,Movie,Munich The Edge of War,Christian Schwochow,United Kingdom,January 21 2022,2022,PG-13,128 min,Drama
+s36,TV Show,All of Us Are Dead,,South Korea,January 28 2022,2022,TV-MA,1 Season,Thriller
+s37,Movie,The Unforgivable,Nora Fingscheidt,United States,December 10 2021,2021,R,112 min,Drama
+s38,TV Show,Inventing Anna,,United States,February 11 2022,2022,TV-MA,1 Season,Crime
+s39,Movie,Windfall,Charlie McDowell,United States,March 18 2022,2022,R,92 min,Thriller
+s40,TV Show,Ozark,,United States,January 21 2022,2022,TV-MA,4 Seasons,Crime
+s41,Movie,The Adam Project,Shawn Levy,United States,March 11 2022,2022,PG-13,106 min,Sci-Fi
+s42,TV Show,Stranger Things,,United States,May 27 2022,2022,TV-14,4 Seasons,Sci-Fi
+s43,Movie,Spiderhead,Joseph Kosinski,United States,June 17 2022,2022,R,111 min,Sci-Fi
+s44,TV Show,The Watcher,,United States,October 13 2022,2022,TV-MA,1 Season,Thriller
+s45,Movie,The Gray Man,Anthony Russo,United States,July 22 2022,2022,PG-13,122 min,Action
+s46,TV Show,Wednesday,,United States,November 23 2022,2022,TV-14,2 Seasons,Comedy
+s47,Movie,Pinocchio,Guillermo del Toro,United States,December 9 2022,2022,PG,117 min,Animation
+s48,TV Show,1899,,Germany,November 17 2022,2022,TV-MA,1 Season,Sci-Fi
+s49,Movie,Glass Onion,Rian Johnson,United States,December 23 2022,2022,PG-13,139 min,Crime
+s50,TV Show,The Glory,,South Korea,December 30 2022,2022,TV-MA,2 Seasons,Drama
+s51,Movie,You People,Kenya Barris,United States,January 27 2023,2023,R,117 min,Comedy
+s52,TV Show,Ginny and Georgia,,United States,February 24 2021,2021,TV-MA,2 Seasons,Drama
+s53,Movie,Knock at the Cabin,M. Night Shyamalan,United States,February 3 2023,2023,R,100 min,Thriller
+s54,TV Show,Shadow and Bone,,United States,April 23 2021,2021,TV-14,2 Seasons,Fantasy
+s55,Movie,Luther The Fallen Sun,Jamie Payne,United Kingdom,March 10 2023,2023,R,129 min,Crime
+s56,TV Show,Outer Banks,,United States,April 15 2020,2020,TV-MA,4 Seasons,Action
+s57,Movie,Murder Mystery 2,Jeremy Garelick,United States,March 31 2023,2023,PG-13,90 min,Comedy
+s58,TV Show,The Night Agent,,United States,March 23 2023,2023,TV-MA,2 Seasons,Thriller
+s59,Movie,Extraction 2,Sam Hargrave,United States,June 16 2023,2023,R,122 min,Action
+s60,TV Show,XO Kitty,,United States,May 18 2023,2023,TV-14,2 Seasons,Romance
+s61,Movie,Heart of Stone,Tom Harper,United Kingdom,August 11 2023,2023,PG-13,123 min,Action
+s62,TV Show,Sweet Tooth,,United States,June 4 2021,2021,TV-PG,3 Seasons,Fantasy
+s63,Movie,Reptile,Grant Singer,United States,October 6 2023,2023,R,134 min,Crime
+s64,TV Show,Beef,,United States,April 6 2023,2023,TV-MA,1 Season,Drama
+s65,Movie,Leo,Robert Marianetti,United States,November 21 2023,2023,PG,102 min,Animation
+s66,TV Show,The Fall of the House of Usher,,United States,October 12 2023,2023,TV-MA,1 Season,Horror
+s67,Movie,Leave the World Behind,Sam Esmail,United States,December 8 2023,2023,R,138 min,Thriller
+s68,TV Show,One Piece,,Japan,August 31 2023,2023,TV-14,1 Season,Action
+s69,Movie,Maestro,Bradley Cooper,United States,December 20 2023,2023,R,129 min,Drama
+s70,TV Show,Bodies,,United Kingdom,October 19 2023,2023,TV-MA,1 Season,Sci-Fi
+s71,Movie,Lift,F. Gary Gray,United States,January 12 2024,2024,PG-13,107 min,Action
+s72,TV Show,Griselda,,United States,January 25 2024,2024,TV-MA,1 Season,Crime
+s73,Movie,Damsel,Juan Carlos Fresnadillo,United States,March 8 2024,2024,TV-14,110 min,Fantasy
+s74,TV Show,Avatar The Last Airbender,,United States,February 22 2024,2024,TV-PG,1 Season,Fantasy
+s75,Movie,Spaceman,Johan Renck,Czech Republic,March 1 2024,2024,R,108 min,Drama
+s76,TV Show,3 Body Problem,,United States,March 21 2024,2024,TV-MA,1 Season,Sci-Fi
+s77,Movie,Rebel Moon Part Two,Zack Snyder,United States,April 19 2024,2024,R,122 min,Sci-Fi
+s78,TV Show,Baby Reindeer,,United Kingdom,April 11 2024,2024,TV-MA,1 Season,Drama
+s79,Movie,The Idea of You,Michael Showalter,United States,May 2 2024,2024,R,116 min,Romance
+s80,TV Show,Bridgerton,,United States,May 16 2024,2024,TV-MA,3 Seasons,Romance
+s81,Movie,Atlas,Brad Peyton,United States,May 24 2024,2024,PG-13,118 min,Sci-Fi
+s82,TV Show,Eric,,United Kingdom,May 30 2024,2024,TV-MA,1 Season,Crime
+s83,Movie,A Family Affair,Richard LaGravenese,United States,June 28 2024,2024,R,111 min,Romance
+s84,TV Show,Supacell,,United Kingdom,June 27 2024,2024,TV-MA,1 Season,Sci-Fi
+s85,Movie,Beverly Hills Cop Axel F,Mark Molloy,United States,July 3 2024,2024,R,115 min,Action
+s86,TV Show,Emily in Paris,,United States,August 15 2024,2024,TV-MA,4 Seasons,Romance
+s87,Movie,Lonely Planet,Susannah Grant,United States,October 11 2024,2024,R,100 min,Romance
+s88,TV Show,Agatha All Along,,United States,September 18 2024,2024,TV-14,1 Season,Fantasy
+s89,Movie,Woman of the Hour,Anna Kendrick,United States,October 18 2024,2024,R,95 min,Crime
+s90,TV Show,Disclaimer,,United Kingdom,October 11 2024,2024,TV-MA,1 Season,Drama
+s91,Movie,Carry-On,Jaume Collet-Serra,United States,December 13 2024,2024,R,118 min,Thriller
+s92,TV Show,Squid Game,,South Korea,December 26 2024,2024,TV-MA,2 Seasons,Thriller
+s93,Movie,The Merry Gentlemen,Susan Walter,United States,November 28 2024,2024,TV-G,90 min,Romance
+s94,TV Show,Heartstopper,,United Kingdom,October 3 2022,2022,TV-G,3 Seasons,Romance
+s95,Movie,Back in Action,Seth Gordon,United States,January 17 2025,2025,PG-13,114 min,Action
+s96,TV Show,Adolescence,,United Kingdom,March 13 2025,2025,TV-MA,1 Season,Drama
+s97,Movie,Nonnas,Stephen Chbosky,United States,May 16 2025,2025,PG,104 min,Comedy
+s98,TV Show,The Residence,,United States,March 20 2025,2025,TV-MA,1 Season,Crime
+s99,Movie,Wake Up Dead Man,Rian Johnson,United States,2025,2025,R,140 min,Crime
+s100,TV Show,Forever,,United States,April 24 2025,2025,TV-MA,1 Season,Drama
